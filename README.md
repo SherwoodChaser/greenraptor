@@ -7,6 +7,6 @@ Simple Vulnerability Scanner.
 ### help :
 ```python3 greenraptor.py -h```
 
-### screenshot :
+### usage :
 ![Alt text](/screenshot.png "Screenshot")
 
